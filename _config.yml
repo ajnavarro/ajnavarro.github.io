@@ -1,0 +1,55 @@
+# Site
+repository: ajnavarro/ajnavarro.github.io
+# favicon: images/favicon.ico
+
+# Personal info
+name: Antonio Navarro
+title: Lead Engineer at Data Retrieval Team
+email: antnavper+resume@gmail.com
+website: ajnavarro.com
+
+# Social links
+twitter_username: ajnperez
+github_username:  ajnavarro
+linkedin_username: ajnavarro
+
+# About Section
+about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  I love my job. I'm always innovating and trying new technologies adapted to the project needs. 
+  
+  I am a restless and perfectionist person who enjoys teamwork and new challenges.
+
+  Actually heavily programming in <mark>Go</mark> and <mark>Scala</mark>.
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+# more_content: | # this will include new lines to allow paragraphs
+#   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#    - Climbing
+#    - Gaming
+#    - Knitting
+#    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+# Footer
+footer_show_references: false
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# plugins:
+# - jekyll-seo-tag
