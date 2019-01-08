@@ -6,21 +6,20 @@
    Source{d} looks to build the first AI that understands and writes code
   description: |
    
-   
 - company: StratioBD
   link: stratio.com
   job_title: Big Data Engineer
   dates: Feb 2014 - Sep 2016
   description: |
-   - Analysis, design and coordination of development of Stratio Admin, a platform to govern data management clusters, using Spring MVC, Jetty, Chef Server, Cassandra,
+   - Analysis, design, and coordination of the development of Stratio Admin, a platform to govern data management clusters, using Spring MVC, Jetty, Chef Server, Cassandra,
    ElasticSearch, Jclouds.
-   - Real time event processing platform developed based on Spark, using a CEP (Complex
-   Event Processing) engine, Hazelcast, Kafka, Spark, Cassandra, MongoDB and
+   - Real-time event processing platform developed based on Spark, using a CEP (Complex
+   Event Processing) engine, Hazelcast, Kafka, Spark, Cassandra, MongoDB, and
    ElasticSearch.
-   - Analysis, architectural design and development of a real time data analysis
-   application based on hypercubes. Technologies: Kafka, Spark, Cassandra, Mongodb.
-   - SAP Hana Vora SparkSQL layer development, implementing queries push down, distributed aggregations, versioning and performace improvements.
-   - Document design to implement data lakes at santander bank,
+   - Analysis, architectural design and development of a real-time data analysis
+   application based on hypercubes. Technologies: Kafka, Spark, Cassandra, MongoDB.
+   - SAP Hana Vora SparkSQL layer development, implementing queries push down, distributed aggregations, versioning and performance improvements.
+   - Document design to implement data lakes at Santander bank,
    - Data Lake implementation and first use case doing data cleaning techniques to normalize data, data versioning, metadata, etc. using Spark, Spark SQL, Spark Mllib, Cloudera, etc for Santander bank
 
 - company: TECHNOactivity
@@ -28,17 +27,16 @@
   job_title: Senior Software Engineer
   dates: Dec 2012 - Feb 2014
   description: |
-    Analysis and architectural design of a fully distributed, highly available, cloud based
-    REST API which forms the core of a mobile payments processing solution licensed by
-    the Central Bank of Spain. Project’s technological highlights including:
+    Analysis and architectural design of a fully distributed, highly available, cloud-based
+    REST API which forms the core of a mobile payments processing solution licensed by the Central Bank of Spain. 
+    
+    Project’s technological highlights including:
     - Use of agile project management and tracking solutions such as JIRA and
     GreenHooper.
     - Continuous integrations tools, such as Nexus and Jenkins.
     - Cloud deployment workflows based on Amazon Web Services.
-    - Low level monetary transactions management with redundancy, error prevention
-    and detection.
-    - Behavior analysis based on rules engine employed as part of proprietary fraud
-    detection and prevention system.
+    - Low-level monetary transactions management with redundancy, error prevention, and detection.
+    - Behavior analysis based on rules engine employed as part of proprietary fraud detection and prevention system.
     - Batch execution of automated banking operations in the background.
     - Interactive API documentation generation using Swagger.
     - Administration backend based on the Play Framework.
@@ -50,7 +48,7 @@
   description: |
     - Analysis and development of Android Second Screen application, ANT 2.0 V2.
     - Development of “Modo salón”, an Antena 3 application designed for TiVo devices,
-    using Java, Maven and Junit.
+    using Java, Maven, and Junit.
     - Development of “Actibva” (stock market and news viewer) for LG TVs, using Java,
     SOAP, REST, Object Oriented Javascript and Jquery.
     - Development of an audio and video transcodification application with REST API, using

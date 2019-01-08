@@ -21,7 +21,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   I am a restless and perfectionist person who enjoys teamwork and new challenges.
 
-  Actually heavily programming in <mark>Go</mark> and <mark>Scala</mark>.
+  Actually managing a 5 people team and heavily programming in <mark>Go</mark> and <mark>Scala</mark>.
 
 # Projects Section
 # projects_title: Projects
@@ -51,5 +51,5 @@ sass:
   sass_dir: _sass
   style: compressed
 
-# plugins:
-# - jekyll-seo-tag
+plugins:
+ - jekyll-seo-tag

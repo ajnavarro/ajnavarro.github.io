@@ -1,7 +1,47 @@
-# - name: Super awesome project
-#   link: github.com/sproogen
-#   github: sproogen/resume-theme
-#   quote: >
-#     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-#   description: | # this will include new lines to allow paragraphs
-#     I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+- name: gitbase
+  link: github.com/src-d/gitbase
+  github: src-d/gitbase
+  quote: >
+    A project created by some of my colleagues and me on a hackathon. Now is one of the main company pillars.
+  description: |
+    gitbase, is a SQL database interface to Git repositories.
+
+    It can be used to perform <mark>SQL</mark> queries about the Git history and
+    about the [Universal <mark>AST</mark>](https://doc.bblf.sh/) of the code itself. gitbase is being built to work on top of any number of git repositories.
+
+    gitbase implements the *MySQL* wire protocol, it can be accessed using any MySQL
+    client or library from any language.
+
+    [src-d/go-mysql-server](https://github.com/src-d/go-mysql-server) is the <mark>SQL engine</mark> implementation used by gitbase.
+
+- name: go-git
+  link: github.com/src-d/go-git
+  github: src-d/go-git
+  quote: >
+    I am contributor and maintainer of this awesome project. 
+    I've implemented a lot of new functionality like the first version of the packfile writer with delta selection.
+    I learned a lot with this project about low-level performance improvements and heavy profiling.
+  description: |
+    *go-git* is a highly extensible git implementation library written in **pure Go**.
+
+    It can be used to manipulate git repositories at low level *(plumbing)* or high level *(porcelain)*, through an idiomatic Go API.
+    It also supports several types of storage, such as in-memory filesystems, or custom implementations.
+
+    It's being actively developed since 2015 and is being used extensively by [source{d}](https://sourced.tech/) and [Keybase](https://keybase.io/blog/encrypted-git-for-everyone), and by many other libraries and tools.
+  
+- name: SAP Hana Vora
+  link: github.com/SAP/HANAVora-Extensions
+  github: SAP/HANAVora-Extensions
+  quote: >
+    Working directly with a great SAP team on their offices, we created a SQL distribution layer based on Apache Spark for his new in-memory database called Velocity. 
+    The project lately was renamed to SAP Hana Vora.
+ 
+- name: Stratio Sparta
+  link: github.com/stratio/sparta
+  github: stratio/sparta
+  quote: >
+    We started this project as a POC to show to management. 
+    After two weeks we had a working prototype able to create aggregations on top of Apache Spark Streaming with a small config file.
+  description: |
+    Stratio Sparta is the easiest way to make use of the <mark>Apache Spark Streaming</mark> technology and all its ecosystem. 
+    Choose your input, operations and outputs, and start extracting insights out of your data in real-time.
