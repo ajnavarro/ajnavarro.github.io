@@ -1,11 +1,20 @@
-- company: Source{d}
+- layout: left
+  company: Source{d}
   link: sourced.tech
-  job_title: Lead Engineer at Data Retrieval Team
-  dates: Sep 2016 - Present
+  jobs:
+    - title: Lead Engineer Data Processing Team
+      dates: Jan 2019 – Nov 2019
+    - title: Lead Engineer at Data Retrieval Team
+      dates: Oct 2017 – Jan 2019
+    - title: BigData Senior Engineer
+      dates: Sep 2016 – Sep 2017
   quote: >
    Source{d} looks to build the first AI that understands and writes code
   description: |
-   
+    - Development low-level git functionality (LRU object cache implementation, delta objects generation).
+    - Manage and coordinate a 5 people team.
+    - Development of a new SparkSQL gitbase datasource, supporting pushdown of standard expressions, like filters and projections, but also aggregations and functions depending on the query.
+    - Manage open source projects (issues triaging, design documents creation for new features, community management) like go-git, go-mysql-server, and gitbase.
 - company: StratioBD
   link: stratio.com
   job_title: Big Data Engineer

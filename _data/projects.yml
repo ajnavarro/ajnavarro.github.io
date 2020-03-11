@@ -18,7 +18,7 @@
   link: github.com/src-d/go-git
   github: src-d/go-git
   quote: >
-    I am contributor and maintainer of this awesome project. 
+    I am contributor and maintainer of this project. 
     I've implemented a lot of new functionality like the first version of the packfile writer with delta selection.
     I learned a lot with this project about low-level performance improvements and heavy profiling.
   description: |

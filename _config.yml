@@ -1,12 +1,12 @@
-# Site
 repository: ajnavarro/ajnavarro.github.io
-# favicon: images/favicon.ico
+favicon: images/favicon.ico
 
 # Personal info
 name: Antonio Navarro
 title: Lead Engineer at Data Retrieval Team
 email: resume@ajnavarro.com
 website: ajnavarro.com
+
 
 # Social links
 twitter_username: ajnperez
@@ -20,8 +20,6 @@ about_content: | # this will include new lines to allow paragraphs
   I love my job. I'm always innovating and trying new technologies adapted to the project needs. 
   
   I am a restless and perfectionist person who enjoys teamwork and new challenges.
-
-  Actually managing a 5 people team and heavily programming in <mark>Go</mark> and <mark>Scala</mark>.
 
 # Projects Section
 # projects_title: Projects
