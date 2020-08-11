@@ -15,6 +15,7 @@
     - Manage and coordinate a 5 people team.
     - Development of a new SparkSQL gitbase datasource, supporting pushdown of standard expressions, like filters and projections, but also aggregations and functions depending on the query.
     - Manage open source projects (issues triaging, design documents creation for new features, community management) like go-git, go-mysql-server, and gitbase.
+
 - company: StratioBD
   link: stratio.com
   job_title: Big Data Engineer
