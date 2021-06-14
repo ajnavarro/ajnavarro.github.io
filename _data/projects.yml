@@ -4,7 +4,7 @@
   quote: >
      Personal pet-project that can expose torrent files as a standard fuse mount, and download them on demand, allowing random reads using a fixed amount of disk space.
   description: |
-    Torrent client with on-demand file downloading as a filesystem.
+    <mark>Torrent</mark> client with on-demand file downloading as a <mark>filesystem</mark>.
 
     Distribyted tries to make easier integrations with other applications among torrent files, presenting them as a standard filesystem.
 
@@ -16,14 +16,14 @@
   link: github.com/ajnavarro/immusql
   github: ajnavarro/immusql
   description: |
-    SQL layer on top of immudb prototype. Second price on the [immudb Coding Challenge - Winter 2020 Edition](https://github.com/codenotary/immuchallenge)
+    <mark>SQL</mark> layer on top of immudb prototype. Second price on the [immudb Coding Challenge - Winter 2020 Edition](https://github.com/codenotary/immuchallenge)
 
 - name: go-mysql-server
   link: github.com/src-d/go-mysql-server
   github: src-d/go-mysql-server
-  quote: >
-    SQL engine which parses standard SQL (based on MySQL syntax), resolves and optimizes queries. It provides simple interfaces to allow custom tabular data source implementations.
   description: |
+    <mark>SQL engine</mark> which parses standard SQL (based on MySQL syntax), resolves and optimizes queries. It provides simple interfaces to allow custom tabular data source implementations:
+
     - Generic extensible SQL engine that performs queries on your data sources.
     
     - Provide interfaces so you can implement your own custom data sources without providing any (except for the mem data source that is used for testing purposes).
@@ -34,6 +34,8 @@
 
     - Provide some common index driver implementations so the user does not have to bring their own index implementation, and still be able to do so if they need to.
 
+    Now heavily used and maintained by the awesome [Dolt team](https://github.com/dolthub/go-mysql-server).
+
 - name: go-git
   link: github.com/go-git/go-git
   github: go-git/go-git
@@ -42,7 +44,7 @@
     I've implemented a lot of new functionality like the first version of the packfile writer with delta selection.
     I learned a lot with this project about low-level performance improvements and heavy profiling.
   description: |
-    *go-git* is a highly extensible git implementation library written in **pure Go**.
+    *go-git* is a highly extensible <mark>git</mark> implementation library written in **pure Go**.
 
     It can be used to manipulate git repositories at low level *(plumbing)* or high level *(porcelain)*, through an idiomatic Go API.
     It also supports several types of storage, such as in-memory filesystems, or custom implementations.
