@@ -1,4 +1,16 @@
 - layout: left
+  company: Molecula Corp.
+  link: molecula.com
+  jobs:
+    - title: Senior Engineer, Core Team
+      dates: Sep 2020 - Now
+  quote: >
+    Pilosa is an open source, distributed bitmap index that dramatically accelerates continuous analysis across multiple, massive data sets. 
+  description: |
+    - Refactor cluster management logic from Gossip protocol to Raft, using etcd for distributed consensus.
+    - Design and prototype new and generic SQL interface and new data storage formats.
+
+- layout: left
   company: Source{d}
   link: sourced.tech
   jobs:

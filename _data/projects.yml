@@ -1,3 +1,23 @@
+- name: distribyted
+  link: github.com/distribyted/distribyted
+  github: distribyted/distribyted
+  quote: >
+     Personal pet-project that can expose torrent files as a standard fuse mount, and download them on demand, allowing random reads using a fixed amount of disk space.
+  description: |
+    Torrent client with on-demand file downloading as a filesystem.
+
+    Distribyted tries to make easier integrations with other applications among torrent files, presenting them as a standard filesystem.
+
+    We aim to use some compressed file characteristics to avoid download it entirely, just the parts that we'll need.
+
+    Also, if the file format is not supported, distribyted can stream and seek through the file if needed.
+
+- name: immusql
+  link: github.com/ajnavarro/immusql
+  github: ajnavarro/immusql
+  description: |
+    SQL layer on top of immudb prototype. Second price on the [immudb Coding Challenge - Winter 2020 Edition](https://github.com/codenotary/immuchallenge)
+
 - name: go-mysql-server
   link: github.com/src-d/go-mysql-server
   github: src-d/go-mysql-server
