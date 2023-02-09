@@ -1,4 +1,16 @@
 - layout: left
+  company: Protocol Labs
+  link: protocol.ai
+  jobs:
+    - title: Senior Engineer, IPFS Stewards Team
+      dates: Apr 2022 - Feb 2023
+  quote: >
+    Kubo (go-ipfs) is the earliest and most widely used implementation of IPFS.
+  description: |
+    - General maintenance of the IPFS Go ecosystem and libraries, fixing bugs and adding new features into the canonical IPFS implementation: Kubo.
+    - Improving Kubo Routing system, allowing to compose routing implementations depending on the use case (indexes vs DHT).
+    - Resource Manager implementation and UX tweaking and bug fixing, simplifying the API facing to the user.
+- layout: left
   company: Molecula Corp.
   link: molecula.com
   jobs:
@@ -21,7 +33,7 @@
     - title: BigData Senior Engineer
       dates: Sep 2016 – Sep 2017
   quote: >
-   Source{d} looks to build the first AI that understands and writes code
+   Source{d} looks to build the first AI that understands and writes code.
   description: |
     - Development low-level git functionality (LRU object cache implementation, delta objects generation).
     - Manage and coordinate a 5 people team.

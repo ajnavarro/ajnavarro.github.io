@@ -12,6 +12,25 @@
 
     Also, if the file format is not supported, distribyted can stream and seek through the file if needed.
 
+- name: Kubo
+  link: github.com/ipfs/kubo
+  github: ipfs/kubo
+  quote: >
+     Kubo was the first <mark>IPFS</mark> implementation and is the most widely used one today.
+  description: |
+    Kubo implements the Interplanetary Filesystem - the <mark>Web3</mark> standard for content-addressing, interoperable with HTTP. 
+    Thus powered by IPLD's data models and the libp2p for network communication. Kubo is written in Go.
+
+    - Runs an IPFS-Node as a network service.
+
+    - Command Line Interface to IPFS-Nodes.
+
+    - Local Web2-to-Web3 HTTP Gateway functionality.
+
+    - HTTP RPC API (/api/v0) to access and control the daemon.
+
+    - <mark>IPFS</mark>'s internal Webgui can be used to manage the Kubo nodes.
+
 - name: immusql
   link: github.com/ajnavarro/immusql
   github: ajnavarro/immusql
