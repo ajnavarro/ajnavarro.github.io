@@ -8,7 +8,7 @@
     Kubo (go-ipfs) is the earliest and most widely used implementation of IPFS.
   description: |
     - General maintenance of the IPFS Go ecosystem and libraries, fixing bugs and adding new features into the canonical IPFS implementation: Kubo.
-    - Improving Kubo Routing system, allowing to compose routing implementations depending on the use case (indexes vs DHT).
+    - Improving the Kubo Routing system, allowing to compose routing implementations depending on the use case (indexes vs DHT).
     - Resource Manager implementation and UX tweaking and bug fixing, simplifying the API facing to the user.
 - layout: left
   company: Molecula Corp.
@@ -17,7 +17,7 @@
     - title: Senior Engineer, Core Team
       dates: Sep 2020 - Jun 2021
   quote: >
-    Pilosa is an open source, distributed bitmap index that dramatically accelerates continuous analysis across multiple, massive data sets. 
+    Pilosa is an open-source, distributed bitmap index that dramatically accelerates continuous analysis across multiple, massive data sets. 
   description: |
     - Refactor cluster management logic from Gossip protocol to Raft, using etcd for distributed consensus.
     - Design and prototype new and generic SQL interface and new data storage formats.
@@ -35,10 +35,10 @@
   quote: >
    Source{d} looks to build the first AI that understands and writes code.
   description: |
-    - Development low-level git functionality (LRU object cache implementation, delta objects generation).
+    - Development of low-level git functionality (LRU object cache implementation, delta objects generation).
     - Manage and coordinate a 5 people team.
-    - Development of a new SparkSQL gitbase datasource, supporting pushdown of standard expressions, like filters and projections, but also aggregations and functions depending on the query.
-    - Manage open source projects (issues triaging, design documents creation for new features, community management) like go-git, go-mysql-server, and gitbase.
+    - Development of a new SparkSQL gitbase data source, supporting pushdown of standard expressions, like filters and projections, but also aggregations and functions depending on the query.
+    - Manage open source projects (issues triaging, design document creation for new features, community management) like go-git, go-mysql-server, and gitbase.
 
 - company: StratioBD
   link: stratio.com
@@ -50,7 +50,7 @@
    - Real-time event processing platform developed based on Spark, using a CEP (Complex
    Event Processing) engine, Hazelcast, Kafka, Spark, Cassandra, MongoDB, and
    ElasticSearch.
-   - Analysis, architectural design and development of a real-time data analysis
+   - Analysis, architectural design, and development of a real-time data analysis
    application based on hypercubes. Technologies: Kafka, Spark, Cassandra, MongoDB.
    - SAP Hana Vora SparkSQL layer development, implementing queries push down, distributed aggregations, versioning and performance improvements.
    - Document design to implement data lakes at Santander bank,
@@ -64,13 +64,13 @@
     Analysis and architectural design of a fully distributed, highly available, cloud-based
     REST API which forms the core of a mobile payments processing solution licensed by the Central Bank of Spain. 
     
-    Project’s technological highlights including:
+    Project’s technological highlights:
     - Use of agile project management and tracking solutions such as JIRA and
     GreenHooper.
-    - Continuous integrations tools, such as Nexus and Jenkins.
+    - Continuous integration tools, such as Nexus and Jenkins.
     - Cloud deployment workflows based on Amazon Web Services.
     - Low-level monetary transactions management with redundancy, error prevention, and detection.
-    - Behavior analysis based on rules engine employed as part of proprietary fraud detection and prevention system.
+    - Behavior analysis based on a rules engine employed as part of proprietary fraud detection and prevention system.
     - Batch execution of automated banking operations in the background.
     - Interactive API documentation generation using Swagger.
     - Administration backend based on the Play Framework.
@@ -84,9 +84,9 @@
     - Development of “Modo salón”, an Antena 3 application designed for TiVo devices,
     using Java, Maven, and Junit.
     - Development of “Actibva” (stock market and news viewer) for LG TVs, using Java,
-    SOAP, REST, Object Oriented Javascript and Jquery.
-    - Development of an audio and video transcodification application with REST API, using
-    Maven, Spring, Spring Security, Jersey, Junit, Velocity, Jetty and MongoDB.
+    SOAP, REST, Object Oriented Javascript, and Jquery.
+    - Development of an audio and video transcoding application with REST API, using
+    Maven, Spring, Spring Security, Jersey, Junit, Velocity, Jetty, and MongoDB.
     - Modular developments and troubleshooting for web and CMS solutions for Antena 3,
     Onda Cero and Europa FM, using Spring, Maven, GWT, Tomcat 6, Lucene and
     Hibernate.
