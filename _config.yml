@@ -17,9 +17,13 @@ linkedin_username: ajnavarro
 about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I love my job. I'm always innovating and trying new technologies adapted to the project's needs. 
-  
-  I am a restless and perfectionist person who enjoys teamwork and new challenges.
+    As an experienced software engineer, I have a strong passion for working with cutting-edge technologies and pushing the boundaries of what's possible. Currently, my focus is on web3, distributed, and decentralized systems, where I am constantly exploring new approaches and techniques to build the next generation of decentralized applications.
+    
+    In addition to my work in web3, I also have a background in Big Data and data processing, where I have built and managed complex systems for processing and analyzing large datasets. With a deep understanding of data pipelines, distributed computing, and scalable architecture, I am confident in designing and implementing robust data processing solutions.
+
+    I am always looking for new challenges to tackle and exciting opportunities to grow my skills.
+
+    Outside of work, I am always learning and have a variety of hobbies. Currently, I am exploring synth music generation and built my own e-bike. I also enjoy sports, having played Rolled Hockey competitively. I am an outdoor enthusiast and love to hike, exploring every corner of Granada's beautiful landscapes.
 
 # Projects Section
 # projects_title: Projects
