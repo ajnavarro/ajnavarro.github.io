@@ -1,4 +1,13 @@
 - layout: left
+  company: Gnoland
+  link: gno.land
+  jobs:
+    - title: Senior Engineer
+      dates: March 2023
+  quote: >
+    Gno.land is platform to write smart contracts in Gnolang (Gno). It uses an interpreted version of the general-purpose programming language Golang (Go).
+ 
+- layout: left
   company: Protocol Labs
   link: protocol.ai
   jobs:
