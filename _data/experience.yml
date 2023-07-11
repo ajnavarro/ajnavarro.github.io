@@ -6,7 +6,13 @@
       dates: March 2023
   quote: >
     Gno.land is platform to write smart contracts in Gnolang (Gno). It uses an interpreted version of the general-purpose programming language Golang (Go).
- 
+  description: |
+    - Streamlined the team's working workflow by implementing improvements and standardization measures
+    - Contributed to the codebase by proposing and implementing new code improvements and refactoring strategies
+    - Assisted in identifying and addressing potential performance regressions through benchmark analysis and reporting
+    - Helped to create and developed https://gno-by-example.com/ to enhance project visibility and discoverability
+    - Played a key role in project documentation by establishing a solid foundation and creating comprehensive documentation resources
+    - Enhanced code throughput visibility by designing and implementing benchmark charts for Continuous Integration (CI) purposes
 - layout: left
   company: Protocol Labs
   link: protocol.ai
