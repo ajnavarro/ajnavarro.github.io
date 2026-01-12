@@ -15,14 +15,6 @@
   description: |
     Kubo is the reference implementation for the <mark>Web3</mark> standard for content-addressing, providing the core network service, CLI, and HTTP gateway for the <mark>IPFS</mark> network.
 
-- name: immusql
-  link: github.com/ajnavarro/immusql
-  github: ajnavarro/immusql
-  quote: >
-    An SQL layer prototype built on top of immudb, an immutable database.
-  description: |
-    - <mark>Won second prize</mark> in the immudb Coding Challenge (Winter 2020) for designing and developing the complete project.
-
 - name: go-mysql-server
   link: github.com/src-d/go-mysql-server
   github: src-d/go-mysql-server
@@ -57,11 +49,3 @@
     A distributed SQL query layer based on Apache Spark for SAP's in-memory database.
   description: |
     - Collaborated directly with the SAP team to design and build the core <mark>Spark-based SQL</mark> layer for the product.
-
-- name: Stratio Sparta
-  link: github.com/stratio/sparta
-  github: stratio/sparta
-  quote: >
-    A real-time data processing tool that simplifies creating aggregations on top of Apache Spark Streaming.
-  description: |
-    - Co-developed the initial <mark>proof-of-concept</mark>, delivering a working prototype in just <mark>two weeks</mark> that led to the project's adoption.
