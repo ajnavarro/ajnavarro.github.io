@@ -16,13 +16,10 @@ linkedin_username: ajnavarro
 # About Section
 about_title: About Me
 about_content: | # this will include new lines to allow paragraphs
-    As an experienced software engineer, I have a strong passion for working with cutting-edge technologies and pushing the boundaries of what's possible. Currently, my focus is on web3, distributed, and decentralized systems, where I am constantly exploring new approaches and techniques to build the next generation of decentralized applications.
-    
-    In addition to my work in web3, I also have a background in Big Data and data processing, where I have built and managed complex systems for processing and analyzing large datasets. With a deep understanding of data pipelines, distributed computing, and scalable architecture, I am confident in designing and implementing robust data processing solutions.
-
-    I am always looking for new challenges to tackle and exciting opportunities to grow my skills.
-
-    Outside of work, I am always learning and have a variety of hobbies. Currently, I am exploring synth music generation and built my own e-bike. I also enjoy sports, having played Rolled Hockey competitively. I am an outdoor enthusiast and love to hike, exploring every corner of Granada's beautiful landscapes.
+    Software Engineer specializing in decentralized systems and large-scale data processing.
+    My expertise lies in applying principles from Big Data, including complex data pipelines and distributed computing.
+    I want to build the next generation of robust and scalable web3 applications.
+    I specialize in solving complex data challenges to build fast and reliable web3 systems.
 
 # Projects Section
 # projects_title: Projects
@@ -34,13 +31,10 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
-# more_content: | # this will include new lines to allow paragraphs
-#   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-#    - Climbing
-#    - Gaming
-#    - Knitting
-#    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+more_title: Outside of Work
+more_content: |
+    I enjoy building things, from programming microcontrollers for quadruped robots and MIDI devices to creating music with synthesizers.
+    I'm also an avid hiker and a former competitive roller hockey player.
 
 # Footer
 footer_show_references: false

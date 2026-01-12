@@ -10,7 +10,6 @@
     - Refactored the blockchain indexer, making it run 10x faster and turning it into a key part of the Gno.land block explorer.
     - Built and released a new GraphQL API that made it easier to get data, which was then used by over 80% of the platform's partners.
     - Improved the GraphQL API by adding a new filtering system based on user requests. This feature let users build complex, SQL-like searches using NOT, AND, and OR commands, making the API more powerful and easier to use.
-    - Made the team's work process more efficient by creating new standards and introducing better ways to improve the code.
     - Set up an automated system (CI) to test performance and create charts, which helped find and fix slowdowns in the code.
     - Helped create and build gno-by-example.com, a complete guide that became a key resource for new developers and for showing off the project.
 - layout: left
