@@ -1,4 +1,4 @@
-- layout: top-middle
+- layout: left
   company: All in Bits
   link: gno.land
   jobs:
@@ -12,7 +12,7 @@
     - Improved the GraphQL API by adding a new filtering system based on user requests. This feature let users build complex, SQL-like searches using NOT, AND, and OR commands, making the API more powerful and easier to use.
     - Set up an automated system (CI) to test performance and create charts, which helped find and fix slowdowns in the code.
     - Helped create and build gno-by-example.com, a complete guide that became a key resource for new developers and for showing off the project.
-- layout: top-middle
+- layout: left
   company: Protocol Labs
   link: protocol.ai
   jobs:
@@ -24,7 +24,7 @@
     - General maintenance of the IPFS Go ecosystem and libraries, fixing bugs and adding new features into the canonical IPFS implementation: Kubo.
     - Improving the Kubo Routing system, allowing to compose routing implementations depending on the use case (indexes vs DHT).
     - Resource Manager implementation and UX tweaking and bug fixing, simplifying the API facing to the user.
-- layout: top-middle
+- layout: left
   company: Molecula Corp.
   link: molecula.com
   jobs:
@@ -36,7 +36,7 @@
     - Refactor cluster management logic from Gossip protocol to Raft, using etcd for distributed consensus.
     - Design and prototype new and generic SQL interface and new data storage formats.
 
-- layout: top-middle
+- layout: left
   company: Source{d}
   link: sourced.tech
   jobs:
@@ -54,11 +54,12 @@
     - Development of a new SparkSQL gitbase data source, supporting pushdown of standard expressions, like filters and projections, but also aggregations and functions depending on the query.
     - Manage open source projects (issues triaging, design document creation for new features, community management) like go-git, go-mysql-server, and gitbase.
 
-- layout: top-middle
+- layout: left
   company: StratioBD
   link: stratio.com
   job_title: Big Data Engineer
   dates: Feb 2014 - Sep 2016
+  description: Architected and developed large-scale, real-time data processing platforms and a Spark-based data lake for Santander Bank.
   # description: |
   #  - Analysis, design, and coordination of the development of Stratio Admin, a platform to govern data management clusters, using Spring MVC, Jetty, Chef Server, Cassandra,
   #  ElasticSearch, Jclouds.
@@ -71,11 +72,12 @@
   #  - Document design to implement data lakes at Santander bank,
   #  - Data Lake implementation and first use case doing data cleaning techniques to normalize data, data versioning, metadata, etc. using Spark, Spark SQL, Spark Mllib, Cloudera, etc for Santander bank
 
-- layout: top-middle
+- layout: left
   company: TECHNOactivity
   link: www.technoactivity.com
   job_title: Senior Software Engineer
   dates: Dec 2012 - Feb 2014
+  description: Architected a highly available, cloud-based REST API for a mobile payments solution licensed by the Central Bank of Spain.
   # description: |
   #   Analysis and architectural design of a fully distributed, highly available, cloud-based
   #   REST API which forms the core of a mobile payments processing solution licensed by the Central Bank of Spain. 
@@ -91,11 +93,12 @@
   #   - Interactive API documentation generation using Swagger.
   #   - Administration backend based on the Play Framework.
 
-- layout: top-middle
+- layout: left
   company: Antena 3 (Paradigma Tecnológico)
   link: www.antena3.com
   job_title: Software Engineer
   dates: Oct 2011 - Dec 2012
+  description: Developed a range of full-stack media applications for major broadcasters across Android, Smart TV, and web platforms.
   # description: |
   #   - Analysis and development of Android Second Screen application, ANT 2.0 V2.
   #   - Development of “Modo salón”, an Antena 3 application designed for TiVo devices,
@@ -108,11 +111,12 @@
   #   Onda Cero and Europa FM, using Spring, Maven, GWT, Tomcat 6, Lucene and
   #   Hibernate.
 
-- layout: top-middle
+- layout: left
   company: AT Sistemas
   link: atsistemas.com
   job_title: Software Engineer
   dates: Sep 2009 - Oct 2011
+  description: Developed enterprise Java applications and web portals for clients like Mutua Madrileña using a Spring, Struts, and Maven stack.
   # description: |
   #   - Enterprise application development using Java, Struts 1, Spring, Spring MVC, Maven,
   #   Artifactory and Tomcat 6.
@@ -122,11 +126,12 @@
   #   - Use of application management and continuous integration solutions such as Hudson
   #   and Sonar.
 
-- layout: top-middle
+- layout: left
   company: Sadiel Desarrollo de Sistemas
   link: ayesa.com
   job_title: Junior Software Engineer
   dates: Jan 2009 - Sep 2009
+  description: Developed full-stack Java enterprise applications and Oracle databases for major eGovernment projects with the "Junta de Andalucía".
   # description: |
   #   - Enterprise application development using Java, Struts 1 and 2, JSF, Spring, Lucene,
   #   Ant, Maven, Artifactory and Tomcat 4/5/6.
