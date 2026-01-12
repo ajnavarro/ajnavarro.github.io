@@ -15,7 +15,6 @@ linkedin_username: ajnavarro
 
 # About Section
 about_title: About Me
-about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
     As an experienced software engineer, I have a strong passion for working with cutting-edge technologies and pushing the boundaries of what's possible. Currently, my focus is on web3, distributed, and decentralized systems, where I am constantly exploring new approaches and techniques to build the next generation of decentralized applications.
     
