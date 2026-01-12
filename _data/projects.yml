@@ -5,7 +5,7 @@
      A torrent client that exposes files as a standard filesystem for on-demand downloading.
   description: |
     - Architected and developed the entire system from the ground up as a personal project.
-    - Implemented a FUSE layer to present torrents as a filesystem for seamless integration with other apps.
+    - Implemented a <mark>FUSE</mark> layer to present torrents as a filesystem for seamless integration with other apps.
 
 - name: Kubo
   link: github.com/ipfs/kubo
@@ -13,7 +13,7 @@
   quote: >
      The primary and most widely-used Go implementation of the Interplanetary Filesystem (IPFS).
   description: |
-    Kubo is the reference implementation for the Web3 standard for content-addressing, providing the core network service, CLI, and HTTP gateway for the IPFS network.
+    Kubo is the reference implementation for the <mark>Web3</mark> standard for content-addressing, providing the core network service, CLI, and HTTP gateway for the <mark>IPFS</mark> network.
 
 - name: immusql
   link: github.com/ajnavarro/immusql
@@ -21,7 +21,7 @@
   quote: >
     An SQL layer prototype built on top of immudb, an immutable database.
   description: |
-    - Won second prize in the immudb Coding Challenge (Winter 2020) for designing and developing the complete project.
+    - <mark>Won second prize</mark> in the immudb Coding Challenge (Winter 2020) for designing and developing the complete project.
 
 - name: go-mysql-server
   link: github.com/src-d/go-mysql-server
@@ -29,7 +29,7 @@
   quote: >
     A generic and extensible SQL engine in Go that parses and optimizes queries for custom data sources.
   description: |
-    - Contributed to the core SQL engine, focusing on query parsing, optimization, and the interface for custom data sources.
+    - Contributed to the core <mark>SQL engine</mark>, focusing on query parsing, optimization, and the interface for custom data sources.
     - Helped establish the project, now heavily used and maintained by the Dolt team.
 
 - name: go-git
@@ -38,17 +38,17 @@
   quote: >
     A highly extensible, pure Go implementation of Git used by major tech companies like Keybase.
   description: |
-    - As a core maintainer, I implemented major features, including the first version of the packfile writer with delta selection.
-    - Drove significant performance improvements through low-level profiling and heavy optimization.
-  
+    - As a <mark>core maintainer</mark>, I implemented major features, including the first version of the packfile writer with delta selection.
+    - Drove significant <mark>performance improvements</mark> through low-level profiling and heavy optimization.
+
 - name: gitbase
   link: github.com/src-d/gitbase
   github: src-d/gitbase
   quote: >
     A SQL database interface, using the MySQL wire protocol, to query Git repositories.
   description: |
-    - Co-created the project during a company hackathon; it later evolved into a main pillar of the company's technology.
-    - Designed and implemented core features to query Git history and code ASTs using SQL.
+    - <mark>Co-created the project</mark> during a company <mark>hackathon</mark>; it later evolved into a main pillar of the company's technology.
+    - Designed and implemented core features to query Git history and code ASTs using <mark>SQL</mark>.
 
 - name: SAP Hana Vora
   link: github.com/SAP/HANAVora-Extensions
@@ -56,12 +56,12 @@
   quote: >
     A distributed SQL query layer based on Apache Spark for SAP's in-memory database.
   description: |
-    - Collaborated directly with the SAP team to design and build the core Spark-based SQL layer for the product.
- 
+    - Collaborated directly with the SAP team to design and build the core <mark>Spark-based SQL</mark> layer for the product.
+
 - name: Stratio Sparta
   link: github.com/stratio/sparta
   github: stratio/sparta
   quote: >
     A real-time data processing tool that simplifies creating aggregations on top of Apache Spark Streaming.
   description: |
-    - Co-developed the initial proof-of-concept, delivering a working prototype in just two weeks that led to the project's adoption.
+    - Co-developed the initial <mark>proof-of-concept</mark>, delivering a working prototype in just <mark>two weeks</mark> that led to the project's adoption.
