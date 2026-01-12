@@ -1,4 +1,4 @@
-- layout: left
+- layout: top-middle
   company: All in Bits
   link: gno.land
   jobs:
@@ -12,7 +12,7 @@
     - Improved the GraphQL API by adding a new filtering system based on user requests. This feature let users build complex, SQL-like searches using NOT, AND, and OR commands, making the API more powerful and easier to use.
     - Set up an automated system (CI) to test performance and create charts, which helped find and fix slowdowns in the code.
     - Helped create and build gno-by-example.com, a complete guide that became a key resource for new developers and for showing off the project.
-- layout: left
+- layout: top-middle
   company: Protocol Labs
   link: protocol.ai
   jobs:
@@ -24,7 +24,7 @@
     - General maintenance of the IPFS Go ecosystem and libraries, fixing bugs and adding new features into the canonical IPFS implementation: Kubo.
     - Improving the Kubo Routing system, allowing to compose routing implementations depending on the use case (indexes vs DHT).
     - Resource Manager implementation and UX tweaking and bug fixing, simplifying the API facing to the user.
-- layout: left
+- layout: top-middle
   company: Molecula Corp.
   link: molecula.com
   jobs:
@@ -36,7 +36,7 @@
     - Refactor cluster management logic from Gossip protocol to Raft, using etcd for distributed consensus.
     - Design and prototype new and generic SQL interface and new data storage formats.
 
-- layout: left
+- layout: top-middle
   company: Source{d}
   link: sourced.tech
   jobs:
@@ -108,7 +108,8 @@
   #   Onda Cero and Europa FM, using Spring, Maven, GWT, Tomcat 6, Lucene and
   #   Hibernate.
 
-- company: AT Sistemas
+- layout: top-middle
+  company: AT Sistemas
   link: atsistemas.com
   job_title: Software Engineer
   dates: Sep 2009 - Oct 2011
@@ -121,7 +122,8 @@
   #   - Use of application management and continuous integration solutions such as Hudson
   #   and Sonar.
 
-- company: Sadiel Desarrollo de Sistemas
+- layout: top-middle
+  company: Sadiel Desarrollo de Sistemas
   link: ayesa.com
   job_title: Junior Software Engineer
   dates: Jan 2009 - Sep 2009
