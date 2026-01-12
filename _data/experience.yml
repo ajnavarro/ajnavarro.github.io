@@ -58,73 +58,73 @@
   link: stratio.com
   job_title: Big Data Engineer
   dates: Feb 2014 - Sep 2016
-  description: |
-   - Analysis, design, and coordination of the development of Stratio Admin, a platform to govern data management clusters, using Spring MVC, Jetty, Chef Server, Cassandra,
-   ElasticSearch, Jclouds.
-   - Real-time event processing platform developed based on Spark, using a CEP (Complex
-   Event Processing) engine, Hazelcast, Kafka, Spark, Cassandra, MongoDB, and
-   ElasticSearch.
-   - Analysis, architectural design, and development of a real-time data analysis
-   application based on hypercubes. Technologies: Kafka, Spark, Cassandra, MongoDB.
-   - SAP Hana Vora SparkSQL layer development, implementing queries push down, distributed aggregations, versioning and performance improvements.
-   - Document design to implement data lakes at Santander bank,
-   - Data Lake implementation and first use case doing data cleaning techniques to normalize data, data versioning, metadata, etc. using Spark, Spark SQL, Spark Mllib, Cloudera, etc for Santander bank
+  # description: |
+  #  - Analysis, design, and coordination of the development of Stratio Admin, a platform to govern data management clusters, using Spring MVC, Jetty, Chef Server, Cassandra,
+  #  ElasticSearch, Jclouds.
+  #  - Real-time event processing platform developed based on Spark, using a CEP (Complex
+  #  Event Processing) engine, Hazelcast, Kafka, Spark, Cassandra, MongoDB, and
+  #  ElasticSearch.
+  #  - Analysis, architectural design, and development of a real-time data analysis
+  #  application based on hypercubes. Technologies: Kafka, Spark, Cassandra, MongoDB.
+  #  - SAP Hana Vora SparkSQL layer development, implementing queries push down, distributed aggregations, versioning and performance improvements.
+  #  - Document design to implement data lakes at Santander bank,
+  #  - Data Lake implementation and first use case doing data cleaning techniques to normalize data, data versioning, metadata, etc. using Spark, Spark SQL, Spark Mllib, Cloudera, etc for Santander bank
 
 - company: TECHNOactivity
   link: www.technoactivity.com
   job_title: Senior Software Engineer
   dates: Dec 2012 - Feb 2014
-  description: |
-    Analysis and architectural design of a fully distributed, highly available, cloud-based
-    REST API which forms the core of a mobile payments processing solution licensed by the Central Bank of Spain. 
+  # description: |
+  #   Analysis and architectural design of a fully distributed, highly available, cloud-based
+  #   REST API which forms the core of a mobile payments processing solution licensed by the Central Bank of Spain. 
     
-    Project’s technological highlights:
-    - Use of agile project management and tracking solutions such as JIRA and
-    GreenHooper.
-    - Continuous integration tools, such as Nexus and Jenkins.
-    - Cloud deployment workflows based on Amazon Web Services.
-    - Low-level monetary transactions management with redundancy, error prevention, and detection.
-    - Behavior analysis based on a rules engine employed as part of proprietary fraud detection and prevention system.
-    - Batch execution of automated banking operations in the background.
-    - Interactive API documentation generation using Swagger.
-    - Administration backend based on the Play Framework.
+  #   Project’s technological highlights:
+  #   - Use of agile project management and tracking solutions such as JIRA and
+  #   GreenHooper.
+  #   - Continuous integration tools, such as Nexus and Jenkins.
+  #   - Cloud deployment workflows based on Amazon Web Services.
+  #   - Low-level monetary transactions management with redundancy, error prevention, and detection.
+  #   - Behavior analysis based on a rules engine employed as part of proprietary fraud detection and prevention system.
+  #   - Batch execution of automated banking operations in the background.
+  #   - Interactive API documentation generation using Swagger.
+  #   - Administration backend based on the Play Framework.
 
 - company: Antena 3 (Paradigma Tecnológico)
   link: www.antena3.com
   job_title: Software Engineer
   dates: Oct 2011 - Dec 2012
-  description: |
-    - Analysis and development of Android Second Screen application, ANT 2.0 V2.
-    - Development of “Modo salón”, an Antena 3 application designed for TiVo devices,
-    using Java, Maven, and Junit.
-    - Development of “Actibva” (stock market and news viewer) for LG TVs, using Java,
-    SOAP, REST, Object Oriented Javascript, and Jquery.
-    - Development of an audio and video transcoding application with REST API, using
-    Maven, Spring, Spring Security, Jersey, Junit, Velocity, Jetty, and MongoDB.
-    - Modular developments and troubleshooting for web and CMS solutions for Antena 3,
-    Onda Cero and Europa FM, using Spring, Maven, GWT, Tomcat 6, Lucene and
-    Hibernate.
+  # description: |
+  #   - Analysis and development of Android Second Screen application, ANT 2.0 V2.
+  #   - Development of “Modo salón”, an Antena 3 application designed for TiVo devices,
+  #   using Java, Maven, and Junit.
+  #   - Development of “Actibva” (stock market and news viewer) for LG TVs, using Java,
+  #   SOAP, REST, Object Oriented Javascript, and Jquery.
+  #   - Development of an audio and video transcoding application with REST API, using
+  #   Maven, Spring, Spring Security, Jersey, Junit, Velocity, Jetty, and MongoDB.
+  #   - Modular developments and troubleshooting for web and CMS solutions for Antena 3,
+  #   Onda Cero and Europa FM, using Spring, Maven, GWT, Tomcat 6, Lucene and
+  #   Hibernate.
 
 - company: AT Sistemas
   link: atsistemas.com
   job_title: Software Engineer
   dates: Sep 2009 - Oct 2011
-  description: |
-    - Enterprise application development using Java, Struts 1, Spring, Spring MVC, Maven,
-    Artifactory and Tomcat 6.
-    - Use of agile development methodology applied through Scrum.
-    - Participation in projects for Mutua Madrileña (Intranet) and Franquicias Plus web
-    portal.
-    - Use of application management and continuous integration solutions such as Hudson
-    and Sonar.
+  # description: |
+  #   - Enterprise application development using Java, Struts 1, Spring, Spring MVC, Maven,
+  #   Artifactory and Tomcat 6.
+  #   - Use of agile development methodology applied through Scrum.
+  #   - Participation in projects for Mutua Madrileña (Intranet) and Franquicias Plus web
+  #   portal.
+  #   - Use of application management and continuous integration solutions such as Hudson
+  #   and Sonar.
 
 - company: Sadiel Desarrollo de Sistemas
   link: ayesa.com
   job_title: Junior Software Engineer
   dates: Jan 2009 - Sep 2009
-  description: |
-    - Enterprise application development using Java, Struts 1 and 2, JSF, Spring, Lucene,
-    Ant, Maven, Artifactory and Tomcat 4/5/6.
-    - ORACLE / PLSQL database programming using TOAD as a management tool.
-    - Participation in projects for “Junta de Andalucía” (eGovernment), “Agencia Andaluza
-    del Agua” and “Nuevo Plan de Vivienda 2009”.
+  # description: |
+  #   - Enterprise application development using Java, Struts 1 and 2, JSF, Spring, Lucene,
+  #   Ant, Maven, Artifactory and Tomcat 4/5/6.
+  #   - ORACLE / PLSQL database programming using TOAD as a management tool.
+  #   - Participation in projects for “Junta de Andalucía” (eGovernment), “Agencia Andaluza
+  #   del Agua” and “Nuevo Plan de Vivienda 2009”.
