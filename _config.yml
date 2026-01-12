@@ -31,7 +31,7 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-more_title: Outside of Work
+more_title: About Me
 more_content: |
     I enjoy building things, from programming microcontrollers for quadruped robots and MIDI devices to creating music with synthesizers.
     I'm also an avid hiker and a former competitive roller hockey player.
