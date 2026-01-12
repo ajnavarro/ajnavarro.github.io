@@ -17,8 +17,8 @@ linkedin_username: ajnavarro
 about_title: About Me
 about_content: | # this will include new lines to allow paragraphs
     Software Engineer specializing in decentralized systems and large-scale data processing.
-    My expertise lies in applying principles from Big Data, including complex data pipelines and distributed computing.
-    I want to build the next generation of robust and scalable web3 applications.
+    My expertise lies in applying principles from <mark>Big Data</mark>, including complex data pipelines and distributed computing.
+    I want to build the next generation of robust and scalable <mark>web3</mark> applications.
     I specialize in solving complex data challenges to build fast and reliable web3 systems.
 
 # Projects Section
