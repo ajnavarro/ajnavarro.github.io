@@ -2,103 +2,66 @@
   link: github.com/distribyted/distribyted
   github: distribyted/distribyted
   quote: >
-     Personal pet-project that can expose torrent files as a standard fuse mount, and download them on demand, allowing random reads using a fixed amount of disk space.
+     A torrent client that exposes files as a standard filesystem for on-demand downloading.
   description: |
-    <mark>Torrent</mark> client with on-demand file downloading as a <mark>filesystem</mark>.
-
-    Distribyted tries to make integrations with other applications among torrent files easier, presenting them as a standard filesystem.
-
-    We aim to use some compressed file characteristics to avoid downloading it entirely, just the parts that we'll need.
-
-    Also, if the file format is not supported, distribyted can stream and seek through the file if needed.
+    - Architected and developed the entire system from the ground up as a personal project.
+    - Implemented a FUSE layer to present torrents as a filesystem for seamless integration with other apps.
 
 - name: Kubo
   link: github.com/ipfs/kubo
   github: ipfs/kubo
   quote: >
-     Kubo was the first <mark>IPFS</mark> implementation and is the most widely used one today.
+     The primary and most widely-used Go implementation of the Interplanetary Filesystem (IPFS).
   description: |
-    Kubo implements the Interplanetary Filesystem - the <mark>Web3</mark> standard for content-addressing, interoperable with HTTP. 
-    Thus powered by IPLD's data models and the libp2p for network communication. Kubo is written in Go.
-
-    - Runs an IPFS-Node as a network service.
-
-    - Command Line Interface to IPFS-Nodes.
-
-    - Local Web2-to-Web3 HTTP Gateway functionality.
-
-    - HTTP RPC API (/api/v0) to access and control the daemon.
-
-    - <mark>IPFS</mark>'s internal Webgui can be used to manage the Kubo nodes.
+    Kubo is the reference implementation for the Web3 standard for content-addressing, providing the core network service, CLI, and HTTP gateway for the IPFS network.
 
 - name: immusql
   link: github.com/ajnavarro/immusql
   github: ajnavarro/immusql
+  quote: >
+    An SQL layer prototype built on top of immudb, an immutable database.
   description: |
-    <mark>SQL</mark> layer on top of immudb prototype. Second prize on the [immudb Coding Challenge - Winter 2020 Edition](https://github.com/codenotary/immuchallenge)
+    - Won second prize in the immudb Coding Challenge (Winter 2020) for designing and developing the complete project.
 
 - name: go-mysql-server
   link: github.com/src-d/go-mysql-server
   github: src-d/go-mysql-server
+  quote: >
+    A generic and extensible SQL engine in Go that parses and optimizes queries for custom data sources.
   description: |
-    <mark>SQL engine</mark> which parses standard SQL (based on MySQL syntax), resolves and optimizes queries. It provides simple interfaces for custom tabular data source implementations:
-
-    - Generic extensible SQL engine that performs queries on your data sources.
-    
-    - Provide interfaces so you can implement your own custom data sources without providing any (except for the mem data source used for testing purposes).
-    
-    - Have a runnable server you can use on your specific implementation.
-    
-    - Parse and optimize queries while still allowing specific implementations to add their own analysis steps and optimizations.
-
-    - Provide some common index driver implementations so the user does not have to bring their own index implementation, and still be able to do so if they need to.
-
-    Now heavily used and maintained by the awesome [Dolt team](https://github.com/dolthub/go-mysql-server).
+    - Contributed to the core SQL engine, focusing on query parsing, optimization, and the interface for custom data sources.
+    - Helped establish the project, now heavily used and maintained by the Dolt team.
 
 - name: go-git
   link: github.com/go-git/go-git
   github: go-git/go-git
   quote: >
-    I was a contributor and maintainer of this project. 
-    I've implemented a lot of new functionality like the first version of the packfile writer with delta selection.
-    I learned a lot with this project about low-level performance improvements and heavy profiling.
+    A highly extensible, pure Go implementation of Git used by major tech companies like Keybase.
   description: |
-    *go-git* is a highly extensible <mark>git</mark> implementation library written in **pure Go**.
-
-    It can be used to manipulate git repositories at a low level *(plumbing)* or high level *(porcelain)*, through an idiomatic Go API.
-    It also supports several types of storage, such as in-memory filesystems, or custom implementations.
-
-    It's being actively developed since 2015 and is being used extensively by [source{d}](https://sourced.tech/) and [Keybase](https://keybase.io/blog/encrypted-git-for-everyone), and by many other libraries and tools.
+    - As a core maintainer, I implemented major features, including the first version of the packfile writer with delta selection.
+    - Drove significant performance improvements through low-level profiling and heavy optimization.
   
 - name: gitbase
   link: github.com/src-d/gitbase
   github: src-d/gitbase
   quote: >
-    A project created by some of my colleagues and me on a hackathon. Now is one of the main company pillars.
+    A SQL database interface, using the MySQL wire protocol, to query Git repositories.
   description: |
-    gitbase is a SQL database interface to Git repositories.
-
-    It can be used to perform <mark>SQL</mark> queries about the Git history and
-    about the [Universal <mark>AST</mark>](https://doc.bblf.sh/) of the code itself. gitbase is being built to work on top of any number of git repositories.
-
-    gitbase implements the *MySQL* wire protocol, it can be accessed using any MySQL
-    client or library from any language.
-
-    [src-d/go-mysql-server](https://github.com/src-d/go-mysql-server) is the <mark>SQL engine</mark> implementation used by gitbase.
+    - Co-created the project during a company hackathon; it later evolved into a main pillar of the company's technology.
+    - Designed and implemented core features to query Git history and code ASTs using SQL.
 
 - name: SAP Hana Vora
   link: github.com/SAP/HANAVora-Extensions
   github: SAP/HANAVora-Extensions
   quote: >
-    Working directly with a great SAP team on their offices, we created a SQL distribution layer based on Apache Spark for his new in-memory database called Velocity. 
-    The project lately was renamed to SAP Hana Vora.
+    A distributed SQL query layer based on Apache Spark for SAP's in-memory database.
+  description: |
+    - Collaborated directly with the SAP team to design and build the core Spark-based SQL layer for the product.
  
 - name: Stratio Sparta
   link: github.com/stratio/sparta
   github: stratio/sparta
   quote: >
-    We started this project as a POC to show to management. 
-    After two weeks we had a working prototype able to create aggregations on top of Apache Spark Streaming with a small config file.
+    A real-time data processing tool that simplifies creating aggregations on top of Apache Spark Streaming.
   description: |
-    Stratio Sparta is the easiest way to make use of the <mark>Apache Spark Streaming</mark> technology and all its ecosystem. 
-    Choose your input, operations, and outputs, and start extracting insights out of your data in real time.
+    - Co-developed the initial proof-of-concept, delivering a working prototype in just two weeks that led to the project's adoption.
