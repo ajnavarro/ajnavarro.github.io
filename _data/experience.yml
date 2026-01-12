@@ -59,7 +59,8 @@
   link: stratio.com
   job_title: Big Data Engineer
   dates: Feb 2014 - Sep 2016
-  description: Architected and developed large-scale, real-time data processing platforms and a Spark-based data lake for Santander Bank.
+  description: |
+    - Architected and developed large-scale, real-time data processing platforms and a Spark-based data lake for Santander Bank.
   # description: |
   #  - Analysis, design, and coordination of the development of Stratio Admin, a platform to govern data management clusters, using Spring MVC, Jetty, Chef Server, Cassandra,
   #  ElasticSearch, Jclouds.
@@ -77,7 +78,8 @@
   link: www.technoactivity.com
   job_title: Senior Software Engineer
   dates: Dec 2012 - Feb 2014
-  description: Architected a highly available, cloud-based REST API for a mobile payments solution licensed by the Central Bank of Spain.
+  description: |
+    - Architected a highly available, cloud-based REST API for a mobile payments solution licensed by the Central Bank of Spain.
   # description: |
   #   Analysis and architectural design of a fully distributed, highly available, cloud-based
   #   REST API which forms the core of a mobile payments processing solution licensed by the Central Bank of Spain. 
@@ -98,7 +100,8 @@
   link: www.antena3.com
   job_title: Software Engineer
   dates: Oct 2011 - Dec 2012
-  description: Developed a range of full-stack media applications for major broadcasters across Android, Smart TV, and web platforms.
+  description: |
+    - Developed a range of full-stack media applications for major broadcasters across Android, Smart TV, and web platforms.
   # description: |
   #   - Analysis and development of Android Second Screen application, ANT 2.0 V2.
   #   - Development of “Modo salón”, an Antena 3 application designed for TiVo devices,
@@ -116,7 +119,8 @@
   link: atsistemas.com
   job_title: Software Engineer
   dates: Sep 2009 - Oct 2011
-  description: Developed enterprise Java applications and web portals for clients like Mutua Madrileña using a Spring, Struts, and Maven stack.
+  description: | 
+    - Developed full-stack Java enterprise applications for clients such as Mutua Madrileña and Franquicias Plus.
   # description: |
   #   - Enterprise application development using Java, Struts 1, Spring, Spring MVC, Maven,
   #   Artifactory and Tomcat 6.
@@ -131,7 +135,8 @@
   link: ayesa.com
   job_title: Junior Software Engineer
   dates: Jan 2009 - Sep 2009
-  description: Developed full-stack Java enterprise applications and Oracle databases for major eGovernment projects with the "Junta de Andalucía".
+  description: | 
+    - Developed enterprise applications using Java EE technologies for public sector clients.
   # description: |
   #   - Enterprise application development using Java, Struts 1 and 2, JSF, Spring, Lucene,
   #   Ant, Maven, Artifactory and Tomcat 4/5/6.
