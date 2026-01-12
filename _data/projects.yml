@@ -13,7 +13,7 @@
   quote: >
      The primary and most widely-used Go implementation of the Interplanetary Filesystem (IPFS).
   description: |
-    Kubo is the reference implementation for the <mark>Web3</mark> standard for content-addressing, providing the core network service, CLI, and HTTP gateway for the <mark>IPFS</mark> network.
+    - Kubo is the reference implementation for the <mark>Web3</mark> standard for content-addressing, providing the core network service, CLI, and HTTP gateway for the <mark>IPFS</mark> network.
 
 - name: go-mysql-server
   link: github.com/src-d/go-mysql-server
