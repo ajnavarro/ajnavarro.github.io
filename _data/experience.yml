@@ -54,7 +54,8 @@
     - Development of a new SparkSQL gitbase data source, supporting pushdown of standard expressions, like filters and projections, but also aggregations and functions depending on the query.
     - Manage open source projects (issues triaging, design document creation for new features, community management) like go-git, go-mysql-server, and gitbase.
 
-- company: StratioBD
+- layout: top-middle
+  company: StratioBD
   link: stratio.com
   job_title: Big Data Engineer
   dates: Feb 2014 - Sep 2016
@@ -70,7 +71,8 @@
   #  - Document design to implement data lakes at Santander bank,
   #  - Data Lake implementation and first use case doing data cleaning techniques to normalize data, data versioning, metadata, etc. using Spark, Spark SQL, Spark Mllib, Cloudera, etc for Santander bank
 
-- company: TECHNOactivity
+- layout: top-middle
+  company: TECHNOactivity
   link: www.technoactivity.com
   job_title: Senior Software Engineer
   dates: Dec 2012 - Feb 2014
@@ -89,7 +91,8 @@
   #   - Interactive API documentation generation using Swagger.
   #   - Administration backend based on the Play Framework.
 
-- company: Antena 3 (Paradigma Tecnológico)
+- layout: top-middle
+  company: Antena 3 (Paradigma Tecnológico)
   link: www.antena3.com
   job_title: Software Engineer
   dates: Oct 2011 - Dec 2012
