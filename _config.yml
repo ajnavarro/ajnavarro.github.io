@@ -103,7 +103,7 @@ content:
           Source{d} looks to build the first AI that understands and writes code.
         description: | 
             - Development of <mark>low-level git</mark> functionality (LRU object cache, delta objects generation).
-            - Managed and coordinated a <mark>5 people team</mark>.
+            - Managed and coordinated a <mark>5-person team</mark>.
             - Developed a new <mark>SparkSQL</mark> data source for gitbase, supporting expression <mark>pushdown</mark>.
             - Managed open source projects like <mark>go-git</mark>, <mark>go-mysql-server</mark>, and <mark>gitbase</mark>.
       - layout: left
